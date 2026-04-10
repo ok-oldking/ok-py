@@ -5,7 +5,7 @@
 #    pip-compile requirements.in
 #
 ok-script==1.0.100
-
+OpenCC==1.2.0
 pynput==1.8.1
     # via -r requirements.in
 onnxocr-ppocrv5==0.0.14
